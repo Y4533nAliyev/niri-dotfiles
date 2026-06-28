@@ -1,0 +1,31 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 34,
+  "spacing": 10,
+
+  "modules-left": ["niri/workspaces", "niri/window"],
+  "modules-center": ["clock"],
+  "modules-right": ["pulseaudio", "battery", "tray"],
+
+  "clock": {
+    "format": "  {:%a %d %b  %H:%M}"
+  },
+
+  "pulseaudio": {
+    "format": "  {volume}%",
+    "format-muted": "󰖁 muted",
+    "scroll-step": 10
+  },
+
+  "battery": {
+    "format": "{capacity}% {icon}",
+    "format-charging": "{capacity}% 🗲",
+    "tooltip": true,
+    "path": "/sys/class/power_supply/BAT0"
+  },
+
+  "tray": {
+    "spacing": 10
+  }
+}
