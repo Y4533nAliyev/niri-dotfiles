@@ -14,7 +14,17 @@ The dependencies for this rice are:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="/screenshots/niri-rice-wallpaper.png" alt="wallpaper img" style="width: 100%; " />
-
 </div>
 
+# Fastfetch
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="/screenshots/niri-rice-fetch.png" alt="fastfetch img" style="width: 100%; " />
+</div>
+
+# Neovim
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="/screenshots/niri-rice-nvim.png" alt="neovim img" style="width: 100%; " />
+</div>
 
