@@ -1,0 +1,90 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "source": "~/Downloads/Archyy.png",
+    "padding": {
+      "top": 2,
+      "right": 6,
+      "left": 2
+    }
+  },
+  "display": {
+    "separator": " "
+  },
+  "modules": [
+    "break",
+    "break",
+    {
+      "type": "title",
+      "keyWidth": 10,
+      "color": "#FFFFFF"
+    },
+    "break",
+    {
+      "type": "os",
+      "key": " ",
+      "keyColor": "#FFFFFF",
+      "color": "#0000",
+      "format": "arch (Btw)"
+    },
+    {
+      "type": "host",
+      "key": "🖥 ",
+      "keyColor": "#FFFFFF",
+      "color": "#e0def4",
+      "format": "Thinkpad T490"
+    },
+    {
+      "type": "shell",
+      "format": "zsh",
+      "key": ">_",
+      "keyColor": "#FFFFFF",
+      "color": "#e0def4"
+    },
+    {
+      "type": "terminal",
+      "key": " ",
+      "keyColor": "#FFFFFF",
+      "color": "#e0def4"
+    },
+    {
+      "type": "wm",
+      "format": "{} (wayland)",
+      "key": " ",
+      "keyColor": "#FFFFFF",
+      "color": "#e0def4"
+    },
+    {
+      "type": "cpu",
+      "key": "󰍛 ",
+      "keyColor": "#FFFFFF",
+      "color": "#e0def4",
+      "format": "Intel i7-8565U (8) @ 4.600GHz"
+    },
+    {
+      "type": "gpu",
+      "key": "󰢮 ",
+      "keyColor": "#FFFFFF",
+      "color": "#e0def4",
+      "format": "Intel UHD Graphics 620"
+    },
+    {
+      "type": "memory",
+      "key": "🎟 ",
+      "keyColor": "#FFFFFF",
+      "color": "#e0def4",
+      "format": "{} {}"
+    },
+    
+    {
+      "type": "uptime",
+      "key": " ",
+      "keyColor": "#FFFFFF",
+      "color": "#e0def4"
+    },
+    
+    "break",
+    "break",
+    "break"
+  ]
+}
