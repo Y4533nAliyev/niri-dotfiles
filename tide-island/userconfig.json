@@ -1,0 +1,23 @@
+{
+    "clockFormat": "24",
+    "dynamicIslandLeftSwipeItems": [
+        "date",
+        "time",
+        "battery"
+    ],
+    "dynamicIslandPrimaryAction": "toggleExpandedPlayer",
+    "dynamicIslandPrimaryButton": 3,
+    "dynamicIslandSecondaryAction": "toggleControlCenter",
+    "dynamicIslandSecondaryButton": 1,
+    "islandAutoHideEnabled": false,
+    "islandExclusiveZone": 45,
+    "islandHeight": 45,
+    "islandPositionX": 50,
+    "islandTopMargin": 4,
+    "islandWidth": 200,
+    "tlpPermissionMode": "password",
+    "tlpSudoPassword": "Yq7xwq_83",
+    "wallpaperLibraryPath": "/home/yaseen/wallpapers",
+    "wallpaperPath": "",
+    "wallpaperPywalEnabled": false
+}
