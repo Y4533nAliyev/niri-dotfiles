@@ -318,12 +318,12 @@ animations {
     }
 
     window-open {
-        duration-ms 400
+        duration-ms 200
         curve "ease-out-expo"
     }
 
     window-close {
-        duration-ms 400
+        duration-ms 200
         curve "ease-out-quad"
     }
 
