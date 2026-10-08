@@ -15,7 +15,11 @@ prefer-no-csd
 input {
     keyboard {
         xkb {
-            // You can set rules, model, layout, variant and options.
+            // List your layouts separated by a comma (e.g., US and another language code like "ru" or "fa")
+            layout "us,az, ru"
+
+            // Set the shortcut to switch between layouts (e.g., Super + Space or Caps Lock)
+            options "grp:ctrl_alt_toggle"
             // For more information, see xkeyboard-config(7).
 
             // For example:
