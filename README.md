@@ -1,4 +1,4 @@
-# Niri Dotfiles Monochrome
+# Niri Dotfiles
 
 This is my personal niri dotfiles.
 
